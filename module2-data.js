@@ -5,6 +5,8 @@ const module2Data = {
   "units": {
     "A": {
       "title": "Obwohl ich Ihnen das erklärt habe...",
+      "pageNumbers": "36-39",
+      "lessonNumber": "Lektion 5",
       "introduction": "In dieser Einheit lernen wir, wie man Reklamationen formuliert und telefonisch kommuniziert.",
       "reading": {
         "title": "Reklamation bei der Mediengruppe Nord",
@@ -24,6 +26,7 @@ const module2Data = {
       ],
       "grammar": {
         "title": "Konjunktionen: unerwartete Gegensätze",
+        "pageNumbers": "40",
         "explanation": "Die Konjunktionen 'obwohl' und 'trotzdem' drücken unerwartete Gegensätze aus.",
         "examples": [
           "Hauptsatz + Nebensatz: Es hat sich bis heute nichts geändert, obwohl ich Ihnen das mehrfach erklärt habe.",
@@ -42,6 +45,8 @@ const module2Data = {
     },
     "B": {
       "title": "Bald wird in fast jedem Haushalt ein PC stehen",
+      "pageNumbers": "41-44",
+      "lessonNumber": "Lektion 6",
       "introduction": "In dieser Einheit lernen wir über die Entwicklung der Computertechnologie und ihre Auswirkungen auf den Alltag.",
       "reading": {
         "title": "Computer heute und morgen",
@@ -71,6 +76,8 @@ const module2Data = {
     },
     "C": {
       "title": "Telefonieren im Beruf",
+      "pageNumbers": "45-48",
+      "lessonNumber": "Lektion 7",
       "introduction": "In dieser Einheit lernen wir, wie man professionell telefoniert und Gespräche strukturiert.",
       "reading": {
         "title": "Telefonieren im Beruf - Tipps und Tricks",
@@ -90,6 +97,7 @@ const module2Data = {
       ],
       "grammar": {
         "title": "Indirekte Fragen mit Fragewörtern",
+        "pageNumbers": "49",
         "explanation": "Indirekte Fragen werden oft in formellen Gesprächen verwendet und beginnen mit Ausdrücken wie 'Können Sie mir sagen...' oder 'Ich möchte wissen...'.",
         "examples": [
           "Direkte Frage: Wann kommt der Zug an?",
@@ -110,6 +118,8 @@ const module2Data = {
     },
     "D": {
       "title": "Digitale Kommunikation",
+      "pageNumbers": "50-53",
+      "lessonNumber": "Lektion 8",
       "introduction": "In dieser Einheit lernen wir über verschiedene Formen der digitalen Kommunikation und ihre Vor- und Nachteile.",
       "reading": {
         "title": "Digitale Kommunikation im Alltag",
@@ -136,83 +146,6 @@ const module2Data = {
         {"word": "die Erreichbarkeit", "translation": "availability"}
       ],
       "conclusion": "Sehr gut! Sie haben verschiedene Formen der digitalen Kommunikation und ihre Vor- und Nachteile kennengelernt."
-    },
-    "E": {
-      "title": "Technische Probleme lösen",
-      "introduction": "In dieser Einheit lernen wir, wie man über technische Probleme spricht und Hilfe sucht.",
-      "reading": {
-        "title": "Wenn der Computer streikt",
-        "text": "Kennen Sie das? Sie sitzen vor dem Computer, wollen arbeiten, und plötzlich funktioniert etwas nicht. Der Bildschirm bleibt schwarz, das Programm stürzt ab oder das Internet ist weg. Was tun?\n\nHier sind einige Tipps, wie Sie häufige Computerprobleme selbst lösen können:\n\n1. Neustart: Klingt banal, hilft aber oft. Schalten Sie den Computer aus und wieder ein. Viele Probleme lösen sich dadurch von selbst.\n\n2. Updates: Überprüfen Sie, ob Ihr Betriebssystem und Ihre Programme auf dem neuesten Stand sind. Veraltete Software kann zu Problemen führen.\n\n3. Virenscanner: Führen Sie regelmäßig einen Virenscan durch. Schadsoftware kann die Ursache für viele Probleme sein.\n\n4. Fehlermeldungen: Notieren Sie sich Fehlermeldungen genau. Sie können wichtige Hinweise auf die Ursache des Problems geben.\n\n5. Hilfe suchen: Wenn Sie das Problem nicht selbst lösen können, suchen Sie im Internet nach Lösungen oder fragen Sie einen Experten um Rat.\n\nWenn alle Stricke reißen, bleibt oft nur der Gang zum Fachmann. Aber keine Sorge: Die meisten Probleme lassen sich lösen, und mit etwas Übung werden Sie immer besser darin, technische Schwierigkeiten selbst zu beheben."
-      },
-      "questions": [
-        {
-          "question": "Was ist oft die einfachste Lösung bei Computerproblemen?",
-          "correctAnswer": "Ein Neustart des Computers",
-          "explanation": "Im Text steht: 'Neustart: Klingt banal, hilft aber oft. Schalten Sie den Computer aus und wieder ein. Viele Probleme lösen sich dadurch von selbst.'"
-        },
-        {
-          "question": "Warum sollte man Fehlermeldungen notieren?",
-          "correctAnswer": "Weil sie wichtige Hinweise auf die Ursache des Problems geben können.",
-          "explanation": "Im Text steht: 'Fehlermeldungen: Notieren Sie sich Fehlermeldungen genau. Sie können wichtige Hinweise auf die Ursache des Problems geben.'"
-        }
-      ],
-      "grammar": {
-        "title": "Imperativ",
-        "explanation": "Der Imperativ wird verwendet, um Anweisungen oder Ratschläge zu geben.",
-        "examples": [
-          "Schalten Sie den Computer aus! (Sie-Form)",
-          "Schalte den Computer aus! (du-Form)",
-          "Schaltet den Computer aus! (ihr-Form)",
-          "Ausschalten! (Infinitiv als Imperativ)"
-        ]
-      },
-      "vocabulary": [
-        {"word": "der Neustart", "translation": "restart"},
-        {"word": "das Betriebssystem", "translation": "operating system"},
-        {"word": "der Virenscanner", "translation": "virus scanner"},
-        {"word": "die Fehlermeldung", "translation": "error message"},
-        {"word": "die Schadsoftware", "translation": "malware"},
-        {"word": "der Fachmann", "translation": "expert"}
-      ],
-      "conclusion": "Sehr gut! Sie haben gelernt, wie man über technische Probleme spricht und den Imperativ verwendet."
-    },
-    "F": {
-      "title": "Zukunftstechnologien",
-      "introduction": "In dieser Einheit lernen wir über Technologien der Zukunft und ihre möglichen Auswirkungen auf unser Leben.",
-      "reading": {
-        "title": "Die Welt von morgen",
-        "text": "Wie wird die Welt in 50 Jahren aussehen? Welche Technologien werden unser Leben bestimmen? Hier sind einige Prognosen von Zukunftsforschern:\n\nKünstliche Intelligenz (KI) wird in fast allen Lebensbereichen präsent sein. Intelligente Assistenten werden uns im Alltag unterstützen, Routineaufgaben übernehmen und uns bei Entscheidungen helfen. Gleichzeitig werden ethische Fragen zum Umgang mit KI immer wichtiger.\n\nDie Mobilität wird sich grundlegend verändern. Selbstfahrende Autos werden zum Standard, und neue Verkehrskonzepte wie Hyperloop oder Flugtaxis könnten lange Reisen revolutionieren. Der Individualverkehr, wie wir ihn heute kennen, könnte durch Sharing-Modelle ersetzt werden.\n\nIn der Medizin werden personalisierte Behandlungen auf Basis genetischer Informationen zum Alltag gehören. Winzige Roboter könnten durch unsere Blutbahnen reisen und Krankheiten bekämpfen, bevor sie ausbrechen. Die Lebenserwartung wird weiter steigen.\n\nDie Arbeitswelt wird sich durch Automatisierung und Digitalisierung stark wandeln. Viele heutige Berufe werden verschwinden, dafür entstehen neue Tätigkeitsfelder. Lebenslanges Lernen wird noch wichtiger werden.\n\nDie virtuelle Realität (VR) und erweiterte Realität (AR) werden unsere Wahrnehmung verändern. Wir werden in virtuellen Welten arbeiten, lernen und Freizeit verbringen. Die Grenzen zwischen realer und virtueller Welt werden verschwimmen.\n\nNatürlich sind all diese Prognosen mit Unsicherheiten behaftet. Die Geschichte hat gezeigt, dass technologische Entwicklungen oft anders verlaufen als erwartet. Eines ist jedoch sicher: Die Zukunft wird spannend!"
-      },
-      "questions": [
-        {
-          "question": "Welche Rolle wird künstliche Intelligenz in Zukunft spielen?",
-          "correctAnswer": "Sie wird in fast allen Lebensbereichen präsent sein und uns im Alltag unterstützen.",
-          "explanation": "Im Text steht: 'Künstliche Intelligenz (KI) wird in fast allen Lebensbereichen präsent sein. Intelligente Assistenten werden uns im Alltag unterstützen, Routineaufgaben übernehmen und uns bei Entscheidungen helfen.'"
-        },
-        {
-          "question": "Wie könnte sich die Mobilität verändern?",
-          "correctAnswer": "Selbstfahrende Autos werden zum Standard, und neue Verkehrskonzepte wie Hyperloop oder Flugtaxis könnten lange Reisen revolutionieren.",
-          "explanation": "Im Text steht: 'Die Mobilität wird sich grundlegend verändern. Selbstfahrende Autos werden zum Standard, und neue Verkehrskonzepte wie Hyperloop oder Flugtaxis könnten lange Reisen revolutionieren.'"
-        }
-      ],
-      "grammar": {
-        "title": "Futur I",
-        "explanation": "Das Futur I wird verwendet, um über zukünftige Ereignisse zu sprechen.",
-        "examples": [
-          "Die Technologie wird unser Leben verändern.",
-          "Wir werden in virtuellen Welten arbeiten.",
-          "Die Lebenserwartung wird steigen."
-        ]
-      },
-      "vocabulary": [
-        {"word": "die künstliche Intelligenz", "translation": "artificial intelligence"},
-        {"word": "selbstfahrend", "translation": "self-driving"},
-        {"word": "die virtuelle Realität", "translation": "virtual reality"},
-        {"word": "die erweiterte Realität", "translation": "augmented reality"},
-        {"word": "die Automatisierung", "translation": "automation"},
-        {"word": "die Prognose", "translation": "forecast, prediction"}
-      ],
-      "conclusion": "Sehr gut! Sie haben über Zukunftstechnologien gelernt und das Futur I verwendet."
     }
   }
-};
+}

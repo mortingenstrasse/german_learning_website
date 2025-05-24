@@ -5,6 +5,8 @@ const module3Data = {
   "units": {
     "A": {
       "title": "Reiseerlebnisse",
+      "pageNumbers": "54-56",
+      "lessonNumber": "Lektion 9",
       "introduction": "In dieser Einheit lernen wir, wie man über Reiseerlebnisse spricht und Erfahrungen austauscht.",
       "reading": {
         "title": "Meine unvergessliche Reise",
@@ -24,6 +26,7 @@ const module3Data = {
       ],
       "grammar": {
         "title": "Perfekt mit sein",
+        "pageNumbers": "57",
         "explanation": "Einige Verben bilden das Perfekt mit 'sein' statt mit 'haben'. Dazu gehören Verben der Bewegung und Verben, die eine Zustandsänderung ausdrücken.",
         "examples": [
           "Ich bin nach Berlin gefahren.",
@@ -44,6 +47,8 @@ const module3Data = {
     },
     "B": {
       "title": "Verkehrsmittel im Vergleich",
+      "pageNumbers": "58-59",
+      "lessonNumber": "Lektion 10",
       "introduction": "In dieser Einheit lernen wir, verschiedene Verkehrsmittel zu vergleichen und über ihre Vor- und Nachteile zu sprechen.",
       "reading": {
         "title": "Wie komme ich am besten von A nach B?",
@@ -63,6 +68,7 @@ const module3Data = {
       ],
       "grammar": {
         "title": "Komparativ und Superlativ",
+        "pageNumbers": "60",
         "explanation": "Der Komparativ wird verwendet, um zwei Dinge zu vergleichen, der Superlativ, um das höchste Maß auszudrücken.",
         "examples": [
           "schnell - schneller - am schnellsten",
@@ -84,6 +90,8 @@ const module3Data = {
     },
     "C": {
       "title": "Städtereisen",
+      "pageNumbers": "61-63",
+      "lessonNumber": "Lektion 11",
       "introduction": "In dieser Einheit lernen wir über Städtereisen und wie man eine Stadt erkundet.",
       "reading": {
         "title": "Ein Wochenende in Wien",
@@ -103,6 +111,7 @@ const module3Data = {
       ],
       "grammar": {
         "title": "Lokale Präpositionen",
+        "pageNumbers": "64",
         "explanation": "Lokale Präpositionen geben an, wo etwas ist oder wohin etwas geht.",
         "examples": [
           "in + Dativ (Wo?): Ich bin in Wien.",
@@ -125,6 +134,8 @@ const module3Data = {
     },
     "D": {
       "title": "Reiseplanung",
+      "pageNumbers": "65-67",
+      "lessonNumber": "Lektion 12",
       "introduction": "In dieser Einheit lernen wir, wie man eine Reise plant und organisiert.",
       "reading": {
         "title": "Die perfekte Reise planen",
@@ -144,6 +155,7 @@ const module3Data = {
       ],
       "grammar": {
         "title": "Infinitiv mit zu",
+        "pageNumbers": "68",
         "explanation": "Der Infinitiv mit 'zu' wird nach bestimmten Verben, Nomen und Adjektiven verwendet.",
         "examples": [
           "Es lohnt sich, frühzeitig zu buchen.",
@@ -156,91 +168,11 @@ const module3Data = {
         {"word": "die Reiseplanung", "translation": "travel planning"},
         {"word": "das Reiseziel", "translation": "destination"},
         {"word": "die Hauptsaison", "translation": "high season"},
+        {"word": "die Anreise", "translation": "arrival, journey to"},
         {"word": "die Unterkunft", "translation": "accommodation"},
-        {"word": "die Packliste", "translation": "packing list"},
-        {"word": "die Reiseversicherung", "translation": "travel insurance"}
+        {"word": "die Packliste", "translation": "packing list"}
       ],
       "conclusion": "Sehr gut! Sie haben gelernt, wie man eine Reise plant und den Infinitiv mit 'zu' verwendet."
-    },
-    "E": {
-      "title": "Nachhaltig reisen",
-      "introduction": "In dieser Einheit lernen wir über nachhaltiges Reisen und wie man umweltbewusst Urlaub machen kann.",
-      "reading": {
-        "title": "Umweltbewusst unterwegs",
-        "text": "Reisen erweitert den Horizont und bringt uns mit anderen Kulturen in Kontakt. Doch leider hat Tourismus oft negative Auswirkungen auf die Umwelt und die lokale Bevölkerung. Nachhaltiges oder ökologisches Reisen versucht, diese negativen Effekte zu minimieren. Hier einige Tipps, wie Sie umweltbewusst reisen können:\n\nAnreise überdenken: Die Anreise verursacht oft den größten Teil des ökologischen Fußabdrucks einer Reise. Flugreisen belasten die Umwelt besonders stark. Wenn möglich, nutzen Sie die Bahn oder den Bus. Für Reisen innerhalb Europas ist die Bahn eine gute Alternative zum Flugzeug. Wenn Sie fliegen müssen, wählen Sie Direktflüge und kompensieren Sie Ihre CO2-Emissionen durch Spenden an Klimaschutzprojekte.\n\nUnterkunft wählen: Entscheiden Sie sich für umweltfreundliche Unterkünfte, die auf Nachhaltigkeit achten. Viele Hotels und Pensionen haben inzwischen Umweltzertifikate wie das EU-Ecolabel oder sind Mitglied bei Organisationen wie Viabono. Auch kleine, lokale Unterkünfte sind oft nachhaltiger als große Hotelketten.\n\nVor Ort mobil sein: Nutzen Sie öffentliche Verkehrsmittel, leihen Sie ein Fahrrad oder erkunden Sie die Umgebung zu Fuß. So lernen Sie den Ort besser kennen und schonen die Umwelt.\n\nLokal konsumieren: Kaufen Sie lokale Produkte und essen Sie in einheimischen Restaurants. Das stärkt die lokale Wirtschaft und reduziert Transportwege. Vermeiden Sie Einwegprodukte und bringen Sie eine wiederverwendbare Wasserflasche mit.\n\nRespektvoll verhalten: Respektieren Sie die lokale Kultur und Natur. Halten Sie sich an Regeln in Naturschutzgebieten, hinterlassen Sie keinen Müll und gehen Sie sparsam mit Ressourcen wie Wasser und Energie um.\n\nNachhaltiges Reisen bedeutet nicht, auf Komfort oder Erlebnisse zu verzichten. Im Gegenteil: Es kann Ihre Reiseerfahrung bereichern, indem Sie bewusster reisen und mehr Kontakt zur lokalen Bevölkerung und Kultur haben."
-      },
-      "questions": [
-        {
-          "question": "Welcher Teil einer Reise verursacht oft den größten ökologischen Fußabdruck?",
-          "correctAnswer": "Die Anreise, besonders Flugreisen.",
-          "explanation": "Im Text steht: 'Die Anreise verursacht oft den größten Teil des ökologischen Fußabdrucks einer Reise. Flugreisen belasten die Umwelt besonders stark.'"
-        },
-        {
-          "question": "Wie kann man vor Ort umweltbewusst mobil sein?",
-          "correctAnswer": "Öffentliche Verkehrsmittel nutzen, ein Fahrrad leihen oder zu Fuß gehen.",
-          "explanation": "Im Text steht: 'Nutzen Sie öffentliche Verkehrsmittel, leihen Sie ein Fahrrad oder erkunden Sie die Umgebung zu Fuß.'"
-        }
-      ],
-      "grammar": {
-        "title": "Modalverben",
-        "explanation": "Modalverben drücken aus, wie jemand zu einer Handlung steht (Möglichkeit, Notwendigkeit, Erlaubnis, etc.).",
-        "examples": [
-          "können: Ich kann mit dem Zug fahren.",
-          "müssen: Ich muss ein Visum beantragen.",
-          "dürfen: Hier darf man nicht fotografieren.",
-          "sollen: Man soll die Natur respektieren.",
-          "wollen: Ich will nachhaltig reisen.",
-          "mögen/möchten: Ich möchte die lokale Kultur kennenlernen."
-        ]
-      },
-      "vocabulary": [
-        {"word": "nachhaltig", "translation": "sustainable"},
-        {"word": "der ökologische Fußabdruck", "translation": "ecological footprint"},
-        {"word": "die CO2-Emission", "translation": "CO2 emission"},
-        {"word": "das Umweltzertifikat", "translation": "environmental certificate"},
-        {"word": "das Naturschutzgebiet", "translation": "nature reserve"},
-        {"word": "die Ressource", "translation": "resource"}
-      ],
-      "conclusion": "Sehr gut! Sie haben über nachhaltiges Reisen gelernt und Modalverben verwendet."
-    },
-    "F": {
-      "title": "Interkulturelle Begegnungen",
-      "introduction": "In dieser Einheit lernen wir über interkulturelle Begegnungen auf Reisen und wie man mit kulturellen Unterschieden umgeht.",
-      "reading": {
-        "title": "Andere Länder, andere Sitten",
-        "text": "Reisen in fremde Länder bedeutet nicht nur, neue Landschaften und Sehenswürdigkeiten zu entdecken, sondern auch, mit anderen Kulturen und Traditionen in Kontakt zu kommen. Diese interkulturellen Begegnungen können bereichernd sein, aber auch zu Missverständnissen führen, wenn man die lokalen Gepflogenheiten nicht kennt. Hier einige Beispiele für kulturelle Unterschiede und Tipps für den respektvollen Umgang damit:\n\nBegrüßung: Die Art der Begrüßung variiert stark von Kultur zu Kultur. Während in Deutschland ein Handschlag üblich ist, verbeugt man sich in Japan. In Frankreich begrüßt man sich oft mit Wangenküssen, in Thailand mit dem Wai, einer Geste mit zusammengelegten Händen. Informieren Sie sich vor Ihrer Reise über die üblichen Begrüßungsformen.\n\nTischsitten: Auch beim Essen gibt es große Unterschiede. In einigen asiatischen Ländern ist es höflich, beim Essen Geräusche zu machen, in Europa gilt das als unhöflich. In manchen Kulturen isst man mit den Händen, in anderen mit Stäbchen oder Besteck. In arabischen Ländern isst man nur mit der rechten Hand, da die linke als unrein gilt.\n\nKleidung: In vielen Ländern gibt es bestimmte Kleidungsvorschriften, besonders in religiösen Stätten. In Moscheen, Tempeln und Kirchen sollten Schultern und Knie bedeckt sein. In einigen muslimischen Ländern tragen Frauen Kopftücher. Respektieren Sie diese Regeln und kleiden Sie sich angemessen.\n\nKommunikation: Die Kommunikationsstile unterscheiden sich ebenfalls. In manchen Kulturen spricht man direkt und offen, in anderen indirekt und zurückhaltend. In einigen Ländern gilt es als unhöflich, 'Nein' zu sagen, stattdessen werden ausweichende Antworten gegeben. Auch Gesten können unterschiedliche Bedeutungen haben.\n\nZeit: Das Zeitverständnis variiert stark. In einigen Kulturen ist Pünktlichkeit sehr wichtig, in anderen ist man flexibler. In südlichen Ländern beginnt der Tag oft später und endet später als in nördlichen Ländern.\n\nDer Schlüssel zu erfolgreichen interkulturellen Begegnungen ist Respekt, Offenheit und die Bereitschaft, zu lernen. Informieren Sie sich vor Ihrer Reise über die lokale Kultur, seien Sie geduldig und flexibel, und betrachten Sie kulturelle Unterschiede als Bereicherung, nicht als Hindernis."
-      },
-      "questions": [
-        {
-          "question": "Wie begrüßt man sich in Japan?",
-          "correctAnswer": "Mit einer Verbeugung.",
-          "explanation": "Im Text steht: 'Während in Deutschland ein Handschlag üblich ist, verbeugt man sich in Japan.'"
-        },
-        {
-          "question": "Was sollte man bei der Kleidung in religiösen Stätten beachten?",
-          "correctAnswer": "Schultern und Knie sollten bedeckt sein.",
-          "explanation": "Im Text steht: 'In Moscheen, Tempeln und Kirchen sollten Schultern und Knie bedeckt sein.'"
-        }
-      ],
-      "grammar": {
-        "title": "Indirekte Rede",
-        "explanation": "Die indirekte Rede wird verwendet, um die Aussagen anderer Personen wiederzugeben.",
-        "examples": [
-          "Direkte Rede: Er sagt: 'Ich komme aus Deutschland.'",
-          "Indirekte Rede: Er sagt, dass er aus Deutschland komme.",
-          "Direkte Rede: Sie fragt: 'Hast du schon gegessen?'",
-          "Indirekte Rede: Sie fragt, ob ich schon gegessen habe."
-        ]
-      },
-      "vocabulary": [
-        {"word": "die Gepflogenheit", "translation": "custom, practice"},
-        {"word": "die Tischsitten", "translation": "table manners"},
-        {"word": "die Kleidungsvorschrift", "translation": "dress code"},
-        {"word": "der Kommunikationsstil", "translation": "communication style"},
-        {"word": "das Zeitverständnis", "translation": "concept of time"},
-        {"word": "die Bereicherung", "translation": "enrichment"}
-      ],
-      "conclusion": "Sehr gut! Sie haben über interkulturelle Begegnungen gelernt und die indirekte Rede verwendet."
     }
   }
-};
+}

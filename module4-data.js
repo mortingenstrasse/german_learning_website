@@ -5,6 +5,8 @@ const module4Data = {
   "units": {
     "A": {
       "title": "Kulturelle Veranstaltungen",
+      "pageNumbers": "69-72",
+      "lessonNumber": "Lektion 13",
       "introduction": "In dieser Einheit lernen wir über verschiedene kulturelle Veranstaltungen und wie man darüber spricht.",
       "reading": {
         "title": "Kulturelles Leben in Deutschland",
@@ -24,6 +26,7 @@ const module4Data = {
       ],
       "grammar": {
         "title": "Passiv",
+        "pageNumbers": "73",
         "explanation": "Das Passiv wird verwendet, wenn der Handelnde unwichtig oder unbekannt ist oder wenn die Handlung selbst im Vordergrund steht.",
         "examples": [
           "Aktiv: Man führt das Stück im Theater auf.",
@@ -44,6 +47,8 @@ const module4Data = {
     },
     "B": {
       "title": "Literatur und Lesen",
+      "pageNumbers": "74-77",
+      "lessonNumber": "Lektion 14",
       "introduction": "In dieser Einheit lernen wir über Literatur, Bücher und Lesegewohnheiten.",
       "reading": {
         "title": "Lesen in der digitalen Welt",
@@ -63,6 +68,7 @@ const module4Data = {
       ],
       "grammar": {
         "title": "Konjunktiv II für höfliche Bitten und Wünsche",
+        "pageNumbers": "78",
         "explanation": "Der Konjunktiv II wird verwendet, um höfliche Bitten und Wünsche auszudrücken.",
         "examples": [
           "Könnten Sie mir bitte ein Buch empfehlen?",
@@ -83,6 +89,8 @@ const module4Data = {
     },
     "C": {
       "title": "Musik und Konzerte",
+      "pageNumbers": "79-82",
+      "lessonNumber": "Lektion 15",
       "introduction": "In dieser Einheit lernen wir über Musik, Konzerte und musikalische Vorlieben.",
       "reading": {
         "title": "Die deutsche Musikszene",
@@ -102,6 +110,7 @@ const module4Data = {
       ],
       "grammar": {
         "title": "Adjektivdeklination",
+        "pageNumbers": "83",
         "explanation": "Adjektive werden je nach Artikel, Kasus, Genus und Numerus unterschiedlich dekliniert.",
         "examples": [
           "der berühmte Komponist (Nominativ)",
@@ -124,10 +133,12 @@ const module4Data = {
     },
     "D": {
       "title": "Kunst und Museen",
+      "pageNumbers": "84-87",
+      "lessonNumber": "Lektion 16",
       "introduction": "In dieser Einheit lernen wir über Kunst, Museen und Ausstellungen.",
       "reading": {
         "title": "Kunstmuseen in Deutschland",
-        "text": "Deutschland ist bekannt für seine vielfältige Museumslandschaft. Mit über 6.800 Museen bietet das Land eine der dichtesten Museumslandschaften weltweit. Besonders die Kunstmuseen ziehen jährlich Millionen von Besuchern an. Hier ein Überblick über einige der bedeutendsten Kunstmuseen Deutschlands:\n\nDie Museumsinsel in Berlin ist ein einzigartiges Ensemble aus fünf Museen: Altes Museum, Neues Museum, Alte Nationalgalerie, Bode-Museum und Pergamonmuseum. Seit 1999 gehört die Museumsinsel zum UNESCO-Weltkulturerbe. Das Pergamonmuseum mit dem berühmten Pergamonaltar und dem Markttor von Milet zählt zu den meistbesuchten Museen Deutschlands.\n\nEbenfalls in Berlin befindet sich die Gemäldegalerie, die eine der weltweit bedeutendsten Sammlungen europäischer Malerei vom 13. bis zum 18. Jahrhundert beherbergt. Werke von Meistern wie Dürer, Raffael, Tizian, Rembrandt und Vermeer sind hier zu bewundern.\n\nIn München lockt die Pinakothek Kunstliebhaber an. Sie besteht aus drei Häusern: Die Alte Pinakothek zeigt Werke vom Mittelalter bis zum Rokoko, die Neue Pinakothek Kunst des 19. Jahrhunderts und die Pinakothek der Moderne Kunst des 20. und 21. Jahrhunderts sowie Design und Architektur.\n\nDas Städel Museum in Frankfurt am Main gehört zu den ältesten und renommiertesten Kunstmuseen Deutschlands. Seine Sammlung umfasst 700 Jahre europäische Kunstgeschichte, von der frühen Renaissance bis zur Gegenwart, mit Werken von Botticelli, Rembrandt, Monet, Picasso und Bacon.\n\nIn Dresden beeindruckt die Gemäldegalerie Alte Meister mit Meisterwerken der italienischen Renaissance und des Barock. Raffaels 'Sixtinische Madonna' und Vermeers 'Bei der Kupplerin' gehören zu den Highlights der Sammlung.\n\nNeben den klassischen Kunstmuseen gibt es auch zahlreiche Museen für zeitgenössische Kunst, wie das Museum für Moderne Kunst in Frankfurt, das Hamburger Bahnhof in Berlin oder das Museum Ludwig in Köln.\n\nViele Museen bieten regelmäßig Sonderausstellungen zu bestimmten Künstlern oder Themen an. Für Kunstinteressierte lohnt es sich, die Websites der Museen zu besuchen, um über aktuelle Ausstellungen informiert zu sein. Oft gibt es auch Führungen, Workshops und spezielle Programme für Kinder und Familien."
+        "text": "Deutschland ist bekannt für seine vielfältige Museumslandschaft. Mit über 6.800 Museen bietet das Land eine der dichtesten Museumslandschaften weltweit. Besonders die Kunstmuseen ziehen jährlich Millionen von Besuchern an. Hier ein Überblick über einige der bedeutendsten Kunstmuseen Deutschlands:\n\nDie Museumsinsel in Berlin ist ein einzigartiges Ensemble aus fünf Museen: Altes Museum, Neues Museum, Alte Nationalgalerie, Bode-Museum und Pergamonmuseum. Seit 1999 gehört die Museumsinsel zum UNESCO-Weltkulturerbe. Das Pergamonmuseum mit dem berühmten Pergamonaltar und dem Markttor von Milet zählt zu den meistbesuchten Museen Deutschlands.\n\nEbenfalls in Berlin befindet sich die Gemäldegalerie, die eine der weltweit bedeutendsten Sammlungen europäischer Malerei vom 13. bis zum 18. Jahrhundert beherbergt. Werke von Meistern wie Dürer, Raffael, Tizian, Rembrandt und Vermeer sind hier zu bewundern.\n\nIn München lockt die Pinakothek Kunstliebhaber an. Sie besteht aus drei Häusern: Die Alte Pinakothek zeigt Werke vom Mittelalter bis zum Rokoko, die Neue Pinakothek Kunst des 19. Jahrhunderts und die Pinakothek der Moderne Kunst des 20. und 21. Jahrhunderts sowie Design und Architektur.\n\nDas Städel Museum in Frankfurt am Main gehört zu den ältesten und renommiertesten Kunstmuseen Deutschlands. Seine Sammlung umfasst 700 Jahre europäische Kunstgeschichte, von der frühen Renaissance bis zur Gegenwart, mit Werken von Botticelli, Rembrandt, Monet, Picasso und Bacon.\n\nIn Dresden beeindruckt die Gemäldegalerie Alte Meister mit Meisterwerken der italienischen Renaissance und des Barock. Raffaels 'Sixtinische Madonna' und Vermeers 'Bei der Kupplerin' gehören zu den Highlights der Sammlung.\n\nNeben den klassischen Kunstmuseen gibt es auch zahlreiche Museen für zeitgenössische Kunst, wie das Museum für Moderne Kunst in Frankfurt, der Hamburger Bahnhof in Berlin oder das Museum Ludwig in Köln.\n\nViele Museen bieten regelmäßig Sonderausstellungen zu bestimmten Künstlern oder Themen an. Für Kunstinteressierte lohnt es sich, die Websites der Museen zu besuchen, um über aktuelle Ausstellungen informiert zu sein. Oft gibt es auch Führungen, Workshops und spezielle Programme für Kinder und Familien."
       },
       "questions": [
         {
@@ -142,102 +153,25 @@ const module4Data = {
         }
       ],
       "grammar": {
-        "title": "Relativsätze",
-        "explanation": "Relativsätze geben zusätzliche Informationen über ein Nomen und werden durch Relativpronomen eingeleitet.",
+        "title": "Nebensätze mit während und bevor",
+        "pageNumbers": "88",
+        "explanation": "Die Konjunktionen 'während' und 'bevor' leiten temporale Nebensätze ein.",
         "examples": [
-          "Das Museum, das wir besucht haben, war sehr interessant.",
-          "Der Künstler, dessen Werke ausgestellt sind, ist sehr bekannt.",
-          "Die Ausstellung, die nächste Woche beginnt, zeigt moderne Kunst.",
-          "Das Bild, an dem der Künstler jahrelang gearbeitet hat, ist beeindruckend."
+          "Während ich im Museum war, hat es draußen geregnet.",
+          "Bevor wir ins Museum gehen, frühstücken wir.",
+          "Ich habe mir die Ausstellung angesehen, während meine Freundin im Café wartete.",
+          "Bevor die Ausstellung eröffnet wurde, gab es eine Pressekonferenz."
         ]
       },
       "vocabulary": [
         {"word": "das Museum", "translation": "museum"},
         {"word": "die Ausstellung", "translation": "exhibition"},
-        {"word": "das Kunstwerk", "translation": "artwork"},
-        {"word": "der Künstler / die Künstlerin", "translation": "artist"},
         {"word": "die Sammlung", "translation": "collection"},
+        {"word": "das Gemälde", "translation": "painting"},
+        {"word": "der Künstler / die Künstlerin", "translation": "artist"},
         {"word": "die Führung", "translation": "guided tour"}
       ],
-      "conclusion": "Sehr gut! Sie haben über Kunstmuseen in Deutschland gelernt und Relativsätze geübt."
-    },
-    "E": {
-      "title": "Film und Kino",
-      "introduction": "In dieser Einheit lernen wir über Film, Kino und die deutsche Filmgeschichte.",
-      "reading": {
-        "title": "Die deutsche Filmlandschaft",
-        "text": "Deutschland blickt auf eine lange und bewegte Filmgeschichte zurück. In den 1920er Jahren erlebte der deutsche Film mit dem Expressionismus seine erste Blütezeit. Filme wie 'Das Cabinet des Dr. Caligari' (1920) von Robert Wiene und 'Metropolis' (1927) von Fritz Lang gelten heute als Meilensteine der Filmgeschichte und haben das Kino weltweit beeinflusst.\n\nNach dem Zweiten Weltkrieg entwickelte sich die Filmlandschaft in Ost- und Westdeutschland unterschiedlich. In der DDR produzierte die DEFA (Deutsche Film AG) Filme, die oft politisch geprägt waren, aber auch Märchenfilme und Alltagsgeschichten. In der Bundesrepublik dominierte zunächst der Heimatfilm, später folgten Komödien und Krimis.\n\nIn den 1960er und 1970er Jahren sorgte der Neue Deutsche Film für internationales Aufsehen. Regisseure wie Rainer Werner Fassbinder, Werner Herzog, Wim Wenders und Volker Schlöndorff schufen anspruchsvolle Werke, die sich kritisch mit der deutschen Geschichte und Gesellschaft auseinandersetzten. Schlöndorffs 'Die Blechtrommel' (1979) gewann als erster deutscher Film einen Oscar für den besten fremdsprachigen Film.\n\nNach einer Krise in den 1980er Jahren erlebte der deutsche Film in den 1990er Jahren einen Aufschwung. Filme wie 'Lola rennt' (1998) von Tom Tykwer oder 'Sonnenallee' (1999) von Leander Haußmann fanden auch international Beachtung. In den 2000er Jahren setzte sich dieser Trend fort. 'Good Bye, Lenin!' (2003) von Wolfgang Becker und 'Das Leben der Anderen' (2006) von Florian Henckel von Donnersmarck, der ebenfalls mit einem Oscar ausgezeichnet wurde, sind Beispiele für den Erfolg des deutschen Films im Ausland.\n\nHeute ist die deutsche Filmlandschaft vielfältig und lebendig. Neben Mainstream-Produktionen gibt es eine lebendige Independent-Szene. Die Berlinale, eines der wichtigsten Filmfestivals weltweit, findet jährlich in Berlin statt und präsentiert Filme aus aller Welt. Der Deutsche Filmpreis, auch 'Lola' genannt, ist die höchste Auszeichnung für den deutschen Film.\n\nTrotz der Konkurrenz durch Streaming-Dienste bleibt das Kino ein beliebter Ort für Filmfans. In Deutschland gibt es rund 1.700 Kinos mit etwa 4.900 Leinwänden. Viele Städte haben auch Programmkinos, die anspruchsvolle Filme abseits des Mainstreams zeigen, sowie Open-Air-Kinos im Sommer."
-      },
-      "questions": [
-        {
-          "question": "Welche deutschen Filme haben einen Oscar gewonnen?",
-          "correctAnswer": "'Die Blechtrommel' und 'Das Leben der Anderen'.",
-          "explanation": "Im Text wird erwähnt, dass 'Die Blechtrommel' (1979) von Volker Schlöndorff als erster deutscher Film einen Oscar für den besten fremdsprachigen Film gewann und dass 'Das Leben der Anderen' (2006) von Florian Henckel von Donnersmarck ebenfalls mit einem Oscar ausgezeichnet wurde."
-        },
-        {
-          "question": "Was ist die Berlinale?",
-          "correctAnswer": "Eines der wichtigsten Filmfestivals weltweit, das jährlich in Berlin stattfindet.",
-          "explanation": "Im Text steht: 'Die Berlinale, eines der wichtigsten Filmfestivals weltweit, findet jährlich in Berlin statt und präsentiert Filme aus aller Welt.'"
-        }
-      ],
-      "grammar": {
-        "title": "Plusquamperfekt",
-        "explanation": "Das Plusquamperfekt wird verwendet, um Handlungen auszudrücken, die vor einer anderen Handlung in der Vergangenheit stattgefunden haben.",
-        "examples": [
-          "Nachdem er den Film gesehen hatte, ging er nach Hause.",
-          "Sie hatte den Roman gelesen, bevor sie die Verfilmung sah.",
-          "Der Regisseur hatte viele Filme gedreht, bevor er seinen ersten Oscar gewann.",
-          "Wir hatten die Karten schon gekauft, als der Film abgesagt wurde."
-        ]
-      },
-      "vocabulary": [
-        {"word": "der Film", "translation": "film, movie"},
-        {"word": "das Kino", "translation": "cinema"},
-        {"word": "der Regisseur / die Regisseurin", "translation": "director"},
-        {"word": "die Leinwand", "translation": "screen"},
-        {"word": "der Schauspieler / die Schauspielerin", "translation": "actor / actress"},
-        {"word": "das Filmfestival", "translation": "film festival"}
-      ],
-      "conclusion": "Sehr gut! Sie haben über die deutsche Filmlandschaft gelernt und das Plusquamperfekt geübt."
-    },
-    "F": {
-      "title": "Geschichte und Erinnerungskultur",
-      "introduction": "In dieser Einheit lernen wir über deutsche Geschichte und Erinnerungskultur.",
-      "reading": {
-        "title": "Erinnerungskultur in Deutschland",
-        "text": "Die Auseinandersetzung mit der eigenen Geschichte, besonders mit der Zeit des Nationalsozialismus und des Holocaust, spielt in Deutschland eine wichtige Rolle. Die Erinnerungskultur hat sich im Laufe der Jahrzehnte gewandelt und ist heute ein zentraler Bestandteil des gesellschaftlichen Selbstverständnisses.\n\nNach dem Ende des Zweiten Weltkriegs 1945 gab es zunächst eine Phase des Schweigens und Verdrängens. Viele Deutsche wollten nicht über die Verbrechen des NS-Regimes sprechen. In den 1960er Jahren begann jedoch, vor allem durch die Studentenbewegung, eine kritische Auseinandersetzung mit der NS-Vergangenheit. Die junge Generation stellte Fragen nach der Verantwortung ihrer Eltern und Großeltern.\n\nSeit den 1980er Jahren hat sich in Deutschland eine vielfältige Erinnerungslandschaft entwickelt. Gedenkstätten an Orten ehemaliger Konzentrationslager wie Dachau, Buchenwald oder Sachsenhausen erinnern an die Opfer des Nationalsozialismus. In Berlin wurde 2005 das Denkmal für die ermordeten Juden Europas eröffnet, ein weithin sichtbares Zeichen der Erinnerung im Zentrum der Hauptstadt.\n\nAuch Museen wie das Jüdische Museum Berlin oder das NS-Dokumentationszentrum in München tragen zur Aufarbeitung der Geschichte bei. Sie informieren über die Geschichte des Judentums in Deutschland, den Nationalsozialismus und den Holocaust und fördern das Verständnis für die historischen Zusammenhänge.\n\nDie Erinnerungskultur umfasst auch Gedenktage wie den 27. Januar, den Tag des Gedenkens an die Opfer des Nationalsozialismus, oder den 9. November, der sowohl an die Reichspogromnacht 1938 als auch an den Fall der Berliner Mauer 1989 erinnert.\n\nIn den letzten Jahren ist zunehmend die Frage in den Fokus gerückt, wie die Erinnerung an den Holocaust bewahrt werden kann, wenn die letzten Zeitzeugen sterben. Digitale Projekte, die Zeitzeugenberichte dokumentieren, und neue Formen des Gedenkens, die auch jüngere Generationen ansprechen, gewinnen an Bedeutung.\n\nDie deutsche Erinnerungskultur beschränkt sich nicht nur auf den Nationalsozialismus. Auch die Geschichte der DDR und die friedliche Revolution von 1989 sind wichtige Themen. Die Gedenkstätte Berliner Mauer und das Stasi-Museum in Berlin erinnern an die Teilung Deutschlands und die Unterdrückung in der DDR.\n\nDie Auseinandersetzung mit der eigenen Geschichte ist in Deutschland nicht abgeschlossen, sondern ein fortlaufender Prozess. Sie trägt dazu bei, das Bewusstsein für die Werte der Demokratie und der Menschenrechte zu stärken und Lehren aus der Vergangenheit zu ziehen."
-      },
-      "questions": [
-        {
-          "question": "Wie hat sich die Erinnerungskultur in Deutschland nach dem Zweiten Weltkrieg entwickelt?",
-          "correctAnswer": "Nach einer Phase des Schweigens begann in den 1960er Jahren eine kritische Auseinandersetzung, und seit den 1980er Jahren hat sich eine vielfältige Erinnerungslandschaft entwickelt.",
-          "explanation": "Im Text wird beschrieben, dass es nach dem Ende des Zweiten Weltkriegs zunächst eine Phase des Schweigens und Verdrängens gab, in den 1960er Jahren durch die Studentenbewegung eine kritische Auseinandersetzung begann und sich seit den 1980er Jahren eine vielfältige Erinnerungslandschaft entwickelt hat."
-        },
-        {
-          "question": "Welche Gedenktage werden im Text erwähnt?",
-          "correctAnswer": "Der 27. Januar (Tag des Gedenkens an die Opfer des Nationalsozialismus) und der 9. November (Reichspogromnacht 1938 und Fall der Berliner Mauer 1989).",
-          "explanation": "Im Text steht: 'Die Erinnerungskultur umfasst auch Gedenktage wie den 27. Januar, den Tag des Gedenkens an die Opfer des Nationalsozialismus, oder den 9. November, der sowohl an die Reichspogromnacht 1938 als auch an den Fall der Berliner Mauer 1989 erinnert.'"
-        }
-      ],
-      "grammar": {
-        "title": "Konjunktionen und Satzverbindungen",
-        "explanation": "Konjunktionen verbinden Sätze oder Satzteile und zeigen die logische Beziehung zwischen ihnen an.",
-        "examples": [
-          "und, oder, aber (nebenordnende Konjunktionen)",
-          "weil, obwohl, wenn, als, nachdem (unterordnende Konjunktionen)",
-          "sowohl ... als auch, entweder ... oder, weder ... noch (zweiteilige Konjunktionen)",
-          "deshalb, trotzdem, allerdings (Konjunktionaladverbien)"
-        ]
-      },
-      "vocabulary": [
-        {"word": "die Erinnerungskultur", "translation": "culture of remembrance"},
-        {"word": "die Gedenkstätte", "translation": "memorial site"},
-        {"word": "das Denkmal", "translation": "monument"},
-        {"word": "der Zeitzeuge / die Zeitzeugin", "translation": "contemporary witness"},
-        {"word": "die Auseinandersetzung", "translation": "confrontation, debate"},
-        {"word": "das Gedenken", "translation": "commemoration"}
-      ],
-      "conclusion": "Sehr gut! Sie haben über die Erinnerungskultur in Deutschland gelernt und Konjunktionen und Satzverbindungen geübt."
+      "conclusion": "Sehr gut! Sie haben über Kunstmuseen in Deutschland gelernt und temporale Nebensätze mit 'während' und 'bevor' verwendet."
     }
   }
-};
+}

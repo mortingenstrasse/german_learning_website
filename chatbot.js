@@ -32,6 +32,14 @@ class Chatbot {
         // Send introduction message
         this.sendBotMessage(unitData.introduction);
         
+        // Display page numbers and lesson number if available
+if (unitData.pageNumbers) {
+    this.sendBotMessage(`Seiten: ${unitData.pageNumbers}`);
+}
+if (unitData.lessonNumber) {
+    this.sendBotMessage(`${unitData.lessonNumber}`);
+}
+
         // Move to reading state if there's a reading section
         if (unitData.reading) {
             this.currentState = 'reading';

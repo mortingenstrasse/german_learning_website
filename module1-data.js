@@ -5,6 +5,8 @@ const module1Data = {
   "units": {
     "A": {
       "title": "Mein Beruf ist meine Leidenschaft",
+      "pageNumbers": "16-19",
+      "lessonNumber": "Lektion 1",
       "introduction": "In dieser Einheit lernen wir über Berufe und berufliche Leidenschaften.",
       "reading": {
         "title": "\"Ich möchte die Menschen glücklich machen\"",
@@ -30,6 +32,7 @@ const module1Data = {
       ],
       "grammar": {
         "title": "Relativsätze im Dativ und mit Präpositionen",
+        "pageNumbers": "20",
         "explanation": "Relativsätze werden verwendet, um zusätzliche Informationen über ein Nomen zu geben. Im Dativ und mit Präpositionen folgen sie besonderen Regeln.",
         "examples": [
           "Das ist der Mann, dem ich helfe.",
@@ -51,6 +54,8 @@ const module1Data = {
     },
     "B": {
       "title": "Wohnen in Deutschland",
+      "pageNumbers": "21-24",
+      "lessonNumber": "Lektion 2",
       "introduction": "In dieser Einheit lernen wir über verschiedene Wohnformen und Statistiken zum Wohnen in Deutschland.",
       "reading": {
         "title": "Wohnen in Deutschland",
@@ -75,6 +80,7 @@ const module1Data = {
       ],
       "grammar": {
         "title": "Über eine Statistik sprechen",
+        "pageNumbers": "25",
         "explanation": "Beim Sprechen über Statistiken verwenden wir spezielle Ausdrücke und Strukturen.",
         "examples": [
           "Mehr als / Gut/Rund/Etwa die Hälfte von uns wohnt...",
@@ -96,6 +102,8 @@ const module1Data = {
     },
     "C": {
       "title": "Charaktereigenschaften",
+      "pageNumbers": "26-29",
+      "lessonNumber": "Lektion 3",
       "introduction": "In dieser Einheit lernen wir, wie man Personen und ihre Charaktereigenschaften beschreibt.",
       "reading": {
         "title": "Ihr wart in den letzten Monaten besonders wichtig für mich",
@@ -115,6 +123,7 @@ const module1Data = {
       ],
       "grammar": {
         "title": "Adjektive als Nomen",
+        "pageNumbers": "30",
         "explanation": "Im Deutschen können Adjektive als Nomen verwendet werden. Sie werden dann großgeschrieben und dekliniert.",
         "examples": [
           "hübsch → der Hübsche / die Hübsche",
@@ -137,6 +146,8 @@ const module1Data = {
     },
     "D": {
       "title": "Arbeit mit Kindern",
+      "pageNumbers": "31-34",
+      "lessonNumber": "Lektion 4",
       "introduction": "In dieser Einheit lernen wir über Praktika und Berufserfahrungen, insbesondere im Bereich der Arbeit mit Kindern.",
       "reading": {
         "title": "Praktikumsbericht Kindergarten an der Steinstrasse",
@@ -161,80 +172,24 @@ const module1Data = {
       ],
       "grammar": {
         "title": "Präteritum",
-        "explanation": "Das Präteritum (auch: Imperfekt) ist eine Zeitform der Vergangenheit, die vor allem in schriftlichen Berichten verwendet wird.",
+        "pageNumbers": "35",
+        "explanation": "Das Präteritum (auch: Imperfekt) ist eine Zeitform der Vergangenheit, die vor allem in schriftlichen Texten verwendet wird.",
         "examples": [
-          "Typ 1 (regelmäßige Verben): führen → führte, arbeiten → arbeitete",
-          "Typ 2 (unregelmäßige Verben): geben → gab, kommen → kam",
-          "Typ 3 (Mischverben): bringen → brachte, denken → dachte"
+          "ich machte, du machtest, er/sie/es machte, wir machten, ihr machtet, sie/Sie machten",
+          "ich kam, du kamst, er/sie/es kam, wir kamen, ihr kamt, sie/Sie kamen",
+          "ich war, du warst, er/sie/es war, wir waren, ihr wart, sie/Sie waren",
+          "ich hatte, du hattest, er/sie/es hatte, wir hatten, ihr hattet, sie/Sie hatten"
         ]
       },
       "vocabulary": [
-        {"word": "die Überstunde", "translation": "overtime hour"},
-        {"word": "das Gehalt", "translation": "salary"},
-        {"word": "die Steuer", "translation": "tax"},
-        {"word": "die Chefin/Leiterin", "translation": "boss/manager (female)"},
-        {"word": "der Tagesablauf", "translation": "daily routine"},
-        {"word": "die Ausbildung", "translation": "training, education"}
+        {"word": "das Praktikum", "translation": "internship"},
+        {"word": "der Kindergarten", "translation": "kindergarten"},
+        {"word": "die Erzieherin / der Erzieher", "translation": "educator, childcare worker"},
+        {"word": "die Ausbildung", "translation": "training, education"},
+        {"word": "die Fachschule", "translation": "vocational school"},
+        {"word": "das Einkommen", "translation": "income"}
       ],
-      "conclusion": "Sehr gut! Sie haben gelernt, wie man über Berufserfahrungen berichtet und das Präteritum verwendet."
-    },
-    "E": {
-      "title": "Welchen Beruf habe ich?",
-      "introduction": "In dieser Einheit lernen wir über verschiedene Berufe und ihre Charakteristika.",
-      "reading": {
-        "title": "Berufsporträts",
-        "text": "In diesem Abschnitt werden verschiedene Berufe vorgestellt, darunter Tierpsychologe, Krankenpfleger, Kinderbuchautorin, Tontechniker und Landwirt. Jeder Beruf wird mit seinen spezifischen Arbeitsbedingungen, Arbeitsinhalten, Voraussetzungen und besonderen Merkmalen beschrieben.\n\nDer Tierpsychologe arbeitet mit Einzel- und Gruppentraining sowie Hausbesuchen und kooperiert mit Heilpraktikern und Ernährungsspezialisten. Der Krankenpfleger arbeitet im Schichtdienst, gibt Medikamente und misst den Blutdruck. Die Kinderbuchautorin schätzt, dass sie überall arbeiten kann und schreibt Bücher für Kinder und Jugendliche. Der Tontechniker nimmt Dialoge auf und ergänzt Geräusche und Musik. Der Landwirt hat unterschiedliche Arbeitszeiten, braucht handwerkliches Geschick, Kreativität, Kraft und Geduld und findet seinen Beruf zukunftssicher mit gutem Einkommen."
-      },
-      "questions": [
-        {
-          "question": "Welche Voraussetzungen braucht ein Tierpsychologe?",
-          "correctAnswer": "Studium Tierpsychologie mit Schwerpunkt Hund",
-          "explanation": "Im Text wird erwähnt, dass ein Tierpsychologe ein Studium der Tierpsychologie mit Schwerpunkt Hund absolviert haben sollte."
-        },
-        {
-          "question": "Was schätzt die Kinderbuchautorin an ihrem Beruf?",
-          "correctAnswer": "Dass sie überall arbeiten kann",
-          "explanation": "Im Text steht, dass die Kinderbuchautorin es schätzt, dass sie überall arbeiten kann."
-        }
-      ],
-      "vocabulary": [
-        {"word": "der Tierpsychologe", "translation": "animal psychologist"},
-        {"word": "der Krankenpfleger", "translation": "nurse (male)"},
-        {"word": "die Kinderbuchautorin", "translation": "children's book author (female)"},
-        {"word": "der Tontechniker", "translation": "sound technician"},
-        {"word": "der Landwirt", "translation": "farmer"},
-        {"word": "die Arbeitsbedingungen", "translation": "working conditions"}
-      ],
-      "conclusion": "Sehr gut! Sie haben verschiedene Berufe und ihre Charakteristika kennengelernt."
-    },
-    "F": {
-      "title": "Flexibles Wohnen auf Zeit",
-      "introduction": "In dieser Einheit lernen wir über flexible Wohnformen für temporäre Aufenthalte.",
-      "reading": {
-        "title": "Flexibles Wohnen auf Zeit - Der neue Trend",
-        "text": "Wohnraum auf Zeit ist in größeren Städten besonders gefragt. Kurzfristige Arbeitsplatzwechsel, befristete Projekteinsätze, Praktikumsplätze, Auslandssemester, Sprachkurse, Messebesuche, Städtetrips - es gibt viele berufliche und private Gründe, für ein paar Wochen oder Monate in einer anderen Stadt zu wohnen.\n\nIn den letzten Jahren ist die Nachfrage nach flexiblen Wohnmöglichkeiten gestiegen und es entstehen ganz neue Wohn- und Lebensformen. Wenn Geld keine Rolle spielt, bietet das Hotelzimmer die klassische Alternative. Für alle, die nicht gern in einem neutralen Hotelzimmer wohnen, gibt es immer mehr Luxusapartments oder Boarding-Houses. Diese Wohnform ist vor allem in den großen Bank- und Messestädten immer gefragter.\n\nDoch auch Menschen mit einem kleineren Geldbeutel haben einige Möglichkeiten: Für kürzere Zeiträume kann man mit etwas Glück Menschen finden, die zur gleichen Zeit in die eigene Heimatstadt ziehen und ihre Wohnung tauschen wollen. Für längere Zeiträume kann man natürlich auch möblierte Wohnungen oder Häuser mieten, wofür es ein stetig wachsendes Angebot gibt. Wer lieber privat wohnt und Lust auf soziale Kontakte hat, wählt ein möbliertes Zimmer bei Menschen, die einen Teil ihrer Wohnung gerade nicht nutzen oder gern Gäste bei sich aufnehmen. Sogar in Studenten-Wohngemeinschaften werden immer häufiger möblierte Zimmer für einen begrenzten Zeitraum zur Untermiete angeboten, denn auch Studenten müssen heute immer flexibler sein und planen ein Auslandssemester oder einen Uniwechsel."
-      },
-      "questions": [
-        {
-          "question": "Ist es richtig, dass Luxusapartments und Boarding-Houses nicht besonders teuer sind?",
-          "correctAnswer": "Nein, das ist falsch. Im Text werden sie als Alternative genannt, wenn Geld keine Rolle spielt.",
-          "explanation": "Im Text steht: 'Wenn Geld keine Rolle spielt, bietet das Hotelzimmer die klassische Alternative. Für alle, die nicht gern in einem neutralen Hotelzimmer wohnen, gibt es immer mehr Luxusapartments oder Boarding-Houses.'"
-        },
-        {
-          "question": "Ist es richtig, dass es Menschen gibt, die ihre Wohnungen für die Urlaubszeit tauschen?",
-          "correctAnswer": "Ja, das ist richtig.",
-          "explanation": "Im Text steht: 'Für kürzere Zeiträume kann man mit etwas Glück Menschen finden, die zur gleichen Zeit in die eigene Heimatstadt ziehen und ihre Wohnung tauschen wollen.'"
-        }
-      ],
-      "vocabulary": [
-        {"word": "der Wohnraum auf Zeit", "translation": "temporary living space"},
-        {"word": "das Boarding-House", "translation": "boarding house"},
-        {"word": "der Geldbeutel", "translation": "wallet, budget"},
-        {"word": "die Untermiete", "translation": "sublease"},
-        {"word": "die Wohngemeinschaft", "translation": "shared apartment"},
-        {"word": "möbliert", "translation": "furnished"}
-      ],
-      "conclusion": "Sehr gut! Sie haben verschiedene Formen des flexiblen Wohnens auf Zeit kennengelernt."
+      "conclusion": "Sehr gut! Sie haben gelernt, wie man über Praktikumserfahrungen berichtet und das Präteritum verwendet."
     }
   }
-};
+}

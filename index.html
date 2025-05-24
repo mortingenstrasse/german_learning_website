@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deutsch Lernen mit Frau/Herr Schmidt</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Load module data files dynamically via module-loader.js -->
+</head>
+<body class="dark-mode">
+    <div class="container">
+        <header>
+            <div class="logo">
+                <h1>Deutsch Lernen</h1>
+                <p>mit Frau/Herr Schmidt</p>
+            </div>
+            <div class="book-selector">
+                <div class="book-option active" data-book="menschen">Menschen B1</div>
+                <div class="book-option" data-book="mittelpunkt">Mittelpunkt B1+</div>
+            </div>
+            <div class="dark-mode-toggle active" id="dark-mode-toggle">
+                <span class="toggle-icon"></span>
+            </div>
+        </header>
+        
+        <div class="content-area">
+            <div class="sidebar">
+                <div class="teacher-selection">
+                    <div class="teacher-option active" id="frau-schmidt">Frau Schmidt</div>
+                    <div class="teacher-option" id="herr-schmidt">Herr Schmidt</div>
+                </div>
+                
+                <div class="module-navigation">
+                    <h3>Module</h3>
+                    <ul id="module-list">
+                        <!-- Modules will be populated dynamically -->
+                    </ul>
+                </div>
+                
+                <div class="progress-container">
+                    <h3>Fortschritt</h3>
+                    <div class="progress-bar">
+                        <div class="progress-fill" id="progress-fill"></div>
+                    </div>
+                    <div class="unit-indicators">
+                        <div class="unit-indicator" data-unit="A">A</div>
+                        <div class="unit-indicator" data-unit="B">B</div>
+                        <div class="unit-indicator" data-unit="C">C</div>
+                        <div class="unit-indicator" data-unit="D">D</div>
+                        <div class="unit-indicator" data-unit="E">E</div>
+                        <div class="unit-indicator" data-unit="F">F</div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="chat-container">
+                <div id="loading-indicator">Lade Module...</div>
+                <div class="chat-messages" id="chat-messages">
+                    <!-- Chat messages will appear here -->
+                </div>
+                
+                <div class="chat-input">
+                    <input type="text" id="user-input" placeholder="Schreiben Sie Ihre Antwort...">
+                    <button id="send-btn">Senden</button>
+                </div>
+                
+                <div class="navigation-buttons">
+                    <button id="prev-btn">Zurück</button>
+                    <button id="next-btn">Weiter</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Load scripts -->
+    <script src="chatbot.js"></script>
+    <script src="module-loader.js"></script>
+</body>
+</html>
